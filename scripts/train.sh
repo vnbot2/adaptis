@@ -1,0 +1,1 @@
+python train_toy_v2.py --batch-size=14 --workers=2 --gpus=0 --dataset-path=/data/adaptis_toy

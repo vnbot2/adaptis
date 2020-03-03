@@ -3,3 +3,4 @@
 experiments/*
 *.so
 *.ipynb_checkpoints*
+.vscode
